@@ -1,4 +1,4 @@
-# FlaskSupabaseTemplate
+# Flask + Supabase Template
 Template for a simple flask + supabase application
 
 **_Structure of Application_**
